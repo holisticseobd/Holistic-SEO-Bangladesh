@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Topic Intelligence by HSBD",
+  "description": "An interactive 3D SEO Topic Intelligence Dashboard and semantic Knowledge Graph modeler with local file analysis and geographic drill-down visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
